@@ -2,5 +2,7 @@
   "firebase_hosting": {
     "deploymentHostingUrl": "https://instant-icon-389615.web.app"
   },
-  "gemini_api": {}
+  "cloud_run_deploy": {},
+  "gemini_api": {},
+  "google_maps_platform": {}
 }
