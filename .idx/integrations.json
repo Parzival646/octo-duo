@@ -1,4 +1,6 @@
 {
-  "firebase_hosting": {},
+  "firebase_hosting": {
+    "deploymentHostingUrl": "https://instant-icon-389615.web.app"
+  },
   "gemini_api": {}
 }
