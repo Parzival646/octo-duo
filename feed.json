@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Blog",
     "description": "",
-    "home_page_url": "https://thservicos.shop",
-    "feed_url": "https://thservicos.shop/feed.json",
+    "home_page_url": "https://parzival646.github.io/octo-duo",
+    "feed_url": "https://parzival646.github.io/octo-duo/feed.json",
     "user_comment": "",
     "author": {
         "name": "Thayler"
     },
     "items": [
         {
-            "id": "https://thservicos.shop/informatica-para-iniciantes.html",
-            "url": "https://thservicos.shop/informatica-para-iniciantes.html",
+            "id": "https://parzival646.github.io/octo-duo/informatica-para-iniciantes.html",
+            "url": "https://parzival646.github.io/octo-duo/informatica-para-iniciantes.html",
             "title": "Informática para iniciantes",
             "summary": "As técnicas básicas da informática.",
             "content_html": "\n    <h2 id=\"as-tecnicas-basicas-da-informatica\">\n      As técnicas básicas da informática.\n    </h2>\n\n  <p>\n    \n  </p>",
