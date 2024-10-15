@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Blog</title>
-    <link href="https://parzival646.github.io/octo-duo/feed.xml" rel="self" />
-    <link href="https://parzival646.github.io/octo-duo" />
+    <link href="https://thservicos.shop/feed.xml" rel="self" />
+    <link href="https://thservicos.shop" />
     <updated>2024-10-14T16:27:15-03:00</updated>
     <author>
         <name>Thayler</name>
     </author>
-    <id>https://parzival646.github.io/octo-duo</id>
+    <id>https://thservicos.shop</id>
 
     <entry>
         <title>Informática para iniciantes</title>
         <author>
             <name>Thayler</name>
         </author>
-        <link href="https://parzival646.github.io/octo-duo/informatica-para-iniciantes.html"/>
-        <id>https://parzival646.github.io/octo-duo/informatica-para-iniciantes.html</id>
+        <link href="https://thservicos.shop/informatica-para-iniciantes.html"/>
+        <id>https://thservicos.shop/informatica-para-iniciantes.html</id>
 
         <updated>2024-10-14T16:27:15-03:00</updated>
             <summary>
